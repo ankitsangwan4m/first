@@ -1,0 +1,126 @@
+.main{
+    width: 600px;
+    height: 700px;
+    border: 1px black solid;
+}
+/* colom 1st  */
+.c1{
+    width: 298px;
+    height: 698px;
+    border: 1px black solid;
+    text-align: center;
+    float: left;
+}
+
+/* row 1st */
+.c1r1{
+    width: 147px;
+    height: 98px;
+    border: 1px black solid;
+    float: left;
+    text-align: center;
+}
+/* row 2nd */
+.c1r2{
+    width: 97.5px;
+    height: 98px;
+    border: 1px black solid;
+    float: left;
+    /* text-align: center; */
+}
+.c1r3{
+    width: 147px;
+    height: 98px;
+    border: 1px black solid;
+    float: left;
+    text-align: center;
+}
+.c1r4{
+    width: 97.5px;
+    height: 98px;
+    border: 1px black solid;
+    float: left;
+    text-align: center;
+}
+.c1r5{
+    width: 296px;
+    height: 98px;
+    border: 1px black solid;
+    float: left;
+    text-align: center;
+}
+.c1r6{
+    width: 296px;
+    height: 98px;
+    border: 1px black solid;
+    float: left;
+    text-align: center;
+}
+.c1r7{
+    width: 296px;
+    height: 98px;
+    border: 1px black solid;
+    float: left;
+    text-align: center;
+}
+/* colom 2nd */
+.c2{
+    width: 298px;
+    height: 698px;
+    border: 1px black solid;
+    text-align: center;
+    float: left;
+
+}
+.c2r1{
+    width: 296px;
+    height: 246px;
+    border: 1px black solid;
+    float: left;
+    
+    
+}
+.c2r2{
+    width: 296px;
+    height: 196px;
+    border: 1px black solid;
+    float: left;
+}
+.c2r2c1{
+    width: 146px;
+    height: 194px;
+    border: 1px black solid;
+    float: left;
+}
+.c2r2c2{
+    width: 146px;
+    height: 194px;
+    border: 1px black solid;
+    float: left;
+}
+.c2r3{
+    width: 296px;
+    height: 249px;
+    border: 1px black solid;
+    float: left;
+}
+.c2r31{
+    width: 97px;
+    height: 249px;
+    border: 1px black solid;
+    float: left;
+    text-align: center;
+}.c2r32{
+    width: 97px;
+    height: 249px;
+    border: 1px black solid;
+    float: left;
+    text-align: center;
+}
+.c2r33{
+    width: 97px;
+    height: 249px;
+    border: 1px black solid;
+    float: left;
+    text-align: center;
+}

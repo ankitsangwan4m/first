@@ -1,0 +1,40 @@
+.main{
+    width: 800px;
+    height: 400px;
+    border: 1px black solid;
+    margin: 0;
+}
+.r1{
+    width: 798px;
+    height: 98px;
+    border: 1px black solid;
+    text-align: center;
+    margin: 0;
+
+}
+.r2{
+    width: 798px;
+    height: 98px;
+    border: 1px black solid;
+}
+.r2-c{
+    width: 197.912px;
+    height: 96px;
+    border: 1px black solid;
+    float: left;
+    
+    
+}
+.r4{
+    width: 798px;
+    height: 98px;
+    border: 1px black solid;
+    
+}
+.r4c{
+    width: 264px;
+    height: 98px;
+    border: 1px black solid;
+    
+    float: left;
+}
